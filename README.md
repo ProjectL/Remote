@@ -1,4 +1,4 @@
-Remote - Personal Notify + Post Object
+Remote - Subjective Notification & Posting
 ======
 
 ####JSON representation of a Remote:

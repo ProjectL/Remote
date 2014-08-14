@@ -1,7 +1,10 @@
-Remote - Subjective Notification & Posting
+Remote - Subscriber Notifications & Posting
 ======
 
-Datastream's travel from a subscriber's remote to the L/Cloud.
+Datastreams are the life blood of Project L.
+Pretty much all the data from one moment in time transferred to many other people, places and times.
+
+These Datastreams travel from a subscriber's remote to the L/Cloud to other subscriber remotes and TVs.
 
 Each datastream must have a streamtype.
 
@@ -21,7 +24,8 @@ Each datastream must have a streamtype.
                 "ble": "",
                 "wifi": "",
                 "cellular": "",
-                "isFast": ""
+                "isFast": "",
+                "isConnected"
             }
         ],
         "remotegeo": {

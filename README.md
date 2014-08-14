@@ -1,6 +1,11 @@
 Remote - Subjective Notification & Posting
 ======
 
+Datastream's travel from a subscriber's remote to the L/Cloud.
+
+Each datastream must have a streamtype.
+
+
 ####JSON representation of a Remote:
 
 ```json
